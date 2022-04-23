@@ -4,9 +4,7 @@ Displaying Hello World! in the Python language.
 
 This is my very small project of displaying "Hello World!" in the python language.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2YXyLWBl8uc)
 
 # Development Environment
 
